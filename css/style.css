@@ -1,0 +1,128 @@
+.home {
+    background: url('/photo/bg.jpg');
+    height: 600px;
+    width: 100%;
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+
+.proucts .row img {
+    height: 100px;
+    width: 100px;
+    margin-top: 40px;
+    border-radius: 50%;
+}
+
+.smartphone-content {
+    justify-content: center center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.case-blue p {
+    justify-content: center center;
+    text-align: center;
+}
+
+.case-blue:hover img {
+    background: url('/photo/green-case-side-430x491.jpg.webp');
+    /* height: 100%;
+    width: 100%; */
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+
+.iphone-xr p {
+    justify-content: center center;
+    text-align: center;
+}
+
+.green-case-back p {
+    justify-content: center center;
+    text-align: center;
+}
+
+.iphone-12 p {
+    justify-content: center center;
+    text-align: center;
+}
+.iphone-13 p {
+    justify-content: center center;
+    text-align: center;
+}
+
+.iphone-13-3 p {
+    justify-content: center center;
+    text-align: center;
+}
+
+.iphone-13-2 p {
+    justify-content: center center;
+    text-align: center;
+}
+
+.link-3-1 p {
+    justify-content: center center;
+    text-align: center;
+}
+
+.quality-content {
+    justify-content: center center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.services  {
+    margin-top: 50px;
+}
+
+.truck  {
+    justify-content: center center;
+    text-align: center;
+}
+.like {
+    justify-content: center center;
+    text-align: center;
+}
+
+.shopping-bag {
+    justify-content: center center;
+    text-align: center;
+}
+
+.Cases-for-Phone {
+    background: url('/photo/accessories-banner-1.jpg.webp');
+    background-position: center center;
+    background-repeat: none;
+    background-size: cover;
+    height: 300px;
+    width: auto;
+}
+
+.Straps-of-Any-Color{
+    background: url('/photo/accessories-banner-3.jpg.webp');
+    background-position: center center;
+    background-repeat: none;
+    background-size: cover;
+    height: 300px;
+    width: auto;
+}
+
+.Popular-Products {
+    text-align: center;
+    justify-content: center center;
+}
+
+.footer {
+    color: white;
+    background: black;
+    height:100px;
+    width: auto;
+    margin-top: 30px;
+}
+.footer .row a {
+    text-decoration: none;
+    list-style-type: none;
+}
